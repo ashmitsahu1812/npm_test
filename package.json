@@ -1,0 +1,17 @@
+{
+  "name": "use_of_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@ashmit1812/dsa-kit": "^1.0.1"
+  }
+}
